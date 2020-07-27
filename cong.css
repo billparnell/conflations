@@ -1,0 +1,24 @@
+
+.confl {
+  font-weight: bold;
+}
+
+.re {
+  font-style: italic;
+}
+
+div.blob:nth-child(4n+1){
+  text-align: right;
+}
+
+div.blob:nth-child(4n+3){
+  text-align: left;
+}
+
+div.blob:nth-child(2n){
+  text-align: center;
+}
+
+.main-header {
+  text-align: right;
+}
